@@ -1,0 +1,9 @@
+
+streamlit>=1.36.0
+pypdf>=4.2.0
+sentence-transformers==3.4.1
+transformers==4.46.3
+faiss-cpu>=1.8.0
+numpy==1.26.4
+google-genai>=1.0.0
+python-dotenv
